@@ -1,48 +1,61 @@
-# (project name)
+# Hi 👋 I'm **Samuel Boahen**
 
-<!-- describe your project -->
+\_I'm learning to become a web developer. My main focus is on learning and
+building projects. I speak 3 languages "English, Dutch and Twi.
 
-## Getting Started
+![My Photo form 6 years ago](/img/xamwell.jpg)
 
-<!-- a guide to using this repository -->
+## Hobbies
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+- I love playing video games 🎮
+- Watching movies 🎥
+- Listening to music 🎧
+- Spending quality time with my friends ⌚
+- Reading books 📖
 
-## Code Quality Checks
+## Education 📚
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+I compeleted high school🏫 3 years ago (2020). Currently, I am studying at the
+HYF in Brussels to become a web development.
 
-## Continuous Integration (CI)
+In this program, we will be learning how to build websites using different
+languages such as HTML, CSS and javascript in the coming weeks.
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+## Skills
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+1. HTML
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Repo Setup
+2. CSS
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+3. SQL
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+4. Git &
+   Github![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Other Certification
+
+The following Certificates were obtain in [Atlas](https://github.com/xamwell2)
+
+- MS
+  Word![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+- Ms Access
+  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+- MS Excel
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+- MS Powerpoint
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+## Contact
+
+You can reach out to me through any of these platforms.
+
+- Twitter(X)
+  ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+- Email 📩: <bxamwell@gmail.com>
+- Telephone📱: 0498028752
